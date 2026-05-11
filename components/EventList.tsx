@@ -62,7 +62,7 @@ export function EventList({ events }: Props) {
                 </div>
 
                 {/* Events grid */}
-                <div className="grid gap-4 sm:grid-cols-2">
+                <div className="flex flex-col gap-3">
                   {monthEvents.map((event) => (
                     <EventCard key={event.id} event={event} />
                   ))}
