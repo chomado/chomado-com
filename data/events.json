@@ -1,0 +1,82 @@
+[
+  {
+    "id": "evt-2026-build",
+    "date": "2026-06-15",
+    "eventName": "Microsoft Build 2026",
+    "sessionTitle": "Building AI-Powered Apps with GitHub Copilot Extensions",
+    "url": "https://mybuild.microsoft.com",
+    "isUpcoming": true,
+    "location": "Seattle, WA / Online",
+    "tags": ["AI", "GitHub Copilot", "Azure"]
+  },
+  {
+    "id": "evt-2026-de",
+    "date": "2026-05-24",
+    "eventName": "Developer eXperience Day 2026",
+    "sessionTitle": "AI時代の開発者体験を考える〜Copilotと生きる〜",
+    "url": "https://dxd2026.connpass.com",
+    "isUpcoming": true,
+    "location": "東京",
+    "tags": ["DX", "AI", "開発者体験"]
+  },
+  {
+    "id": "evt-2025-ignite",
+    "date": "2025-11-19",
+    "eventName": "Microsoft Ignite 2025",
+    "sessionTitle": "Building with Azure OpenAI Service: From Prototype to Production",
+    "url": "https://ignite.microsoft.com",
+    "isUpcoming": false,
+    "location": "Chicago, IL / Online",
+    "tags": ["Azure", "AI", "OpenAI"]
+  },
+  {
+    "id": "evt-2025-jxug",
+    "date": "2025-09-14",
+    "eventName": "JXUG × .NET Conf Japan 2025",
+    "sessionTitle": ".NET 10 と AI の最新動向",
+    "url": "https://jxug.connpass.com",
+    "isUpcoming": false,
+    "location": "東京",
+    "tags": [".NET", "AI", "C#"]
+  },
+  {
+    "id": "evt-2025-build",
+    "date": "2025-05-19",
+    "eventName": "Microsoft Build 2025",
+    "sessionTitle": "GitHub Copilot Extensions Deep Dive",
+    "url": "https://mybuild.microsoft.com",
+    "isUpcoming": false,
+    "location": "Seattle, WA / Online",
+    "tags": ["GitHub Copilot", "AI"]
+  },
+  {
+    "id": "evt-2024-ignite",
+    "date": "2024-11-19",
+    "eventName": "Microsoft Ignite 2024",
+    "sessionTitle": "Responsible AI Development with Azure AI Content Safety",
+    "url": "https://ignite.microsoft.com",
+    "isUpcoming": false,
+    "location": "Chicago, IL / Online",
+    "tags": ["Azure", "Responsible AI"]
+  },
+  {
+    "id": "evt-2024-techfest",
+    "date": "2024-07-06",
+    "eventName": "Tech Fest 2024",
+    "sessionTitle": "クラウドネイティブ開発の最前線 〜Azure Container Apps 実践〜",
+    "url": "https://techfest2024.example.com",
+    "isUpcoming": false,
+    "location": "大阪",
+    "tags": ["Cloud", "Azure", "Container"]
+  },
+  {
+    "id": "evt-2024-de",
+    "date": "2024-03-23",
+    "eventName": "de:code 2024",
+    "sessionTitle": "Azure AI Studio で始めるエンタープライズAI開発",
+    "url": "https://decode.microsoft.com",
+    "isUpcoming": false,
+    "location": "東京 / Online",
+    "tags": ["Azure AI", "Enterprise"]
+  }
+]
