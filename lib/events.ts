@@ -7,4 +7,5 @@ export type SpeakingEvent = {
   isUpcoming: boolean;
   location?: string;
   tags?: string[];
+  ogImage?: string;
 };

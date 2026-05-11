@@ -7,7 +7,12 @@
     "url": "https://aiau.connpass.com/event/392336/",
     "isUpcoming": true,
     "location": "現地（目黒）+ オンライン",
-    "tags": ["GitHub Copilot", "AI", "初心者向け"]
+    "tags": [
+      "GitHub Copilot",
+      "AI",
+      "初心者向け"
+    ],
+    "ogImage": "https://media.connpass.com/thumbs/47/9f/479f25e1631fb7d58cb555b0dbfae4c2.png"
   },
   {
     "id": "evt-2026-copilot-webinar",
@@ -17,7 +22,12 @@
     "url": "https://github.registration.goldcast.io/events/bef7b256-2e0b-4dcc-9bcf-d07b49677220",
     "isUpcoming": true,
     "location": "オンライン",
-    "tags": ["GitHub Copilot", "AI", "ウェビナー"]
+    "tags": [
+      "GitHub Copilot",
+      "AI",
+      "ウェビナー"
+    ],
+    "ogImage": "https://staticassets.goldcast.io/public_images/events/bef7b256-2e0b-4dcc-9bcf-d07b49677220/pQXgWFRfOlhmsX00iV2Q_GHCforBegineerWebinarSocial.png"
   },
   {
     "id": "evt-2026-tid-opencampus",
@@ -27,7 +37,11 @@
     "url": "https://www.tid.ac.jp/contents/event/1047/",
     "isUpcoming": false,
     "location": "東京",
-    "tags": ["教育", "高校生向け"]
+    "tags": [
+      "教育",
+      "高校生向け"
+    ],
+    "ogImage": "https://www.tid.ac.jp/contents/wp-content/uploads/2024/03/bnr_special-open-campus_202605.jpg"
   },
   {
     "id": "evt-2026-agi-hackathon",
@@ -37,7 +51,12 @@
     "url": "https://chatgpt-lab.com/n/nace6bdbeccfe",
     "isUpcoming": false,
     "location": "GMO Yours・フクラス（東京）",
-    "tags": ["AI", "ハッカソン", "審査員"]
+    "tags": [
+      "AI",
+      "ハッカソン",
+      "審査員"
+    ],
+    "ogImage": "https://assets.st-note.com/production/uploads/images/257963791/rectangle_large_type_2_4d7d84401c86c7ee25a87ec406f00a75.png?fit=bounds&quality=85&width=1280"
   },
   {
     "id": "evt-2026-agentic-0221",
@@ -47,7 +66,12 @@
     "url": "https://github-dockyard.connpass.com/event/384726/",
     "isUpcoming": false,
     "location": "YouTube Live",
-    "tags": ["GitHub Actions", "AI", "GitHub Dockyard"]
+    "tags": [
+      "GitHub Actions",
+      "AI",
+      "GitHub Dockyard"
+    ],
+    "ogImage": "https://media.connpass.com/thumbs/69/de/69de58e68aa2d9619515b736f0710e57.png"
   },
   {
     "id": "evt-2026-plateau-award",
@@ -57,7 +81,12 @@
     "url": "https://asciistartup.connpass.com/event/375305/",
     "isUpcoming": false,
     "location": "大崎（東京）",
-    "tags": ["3D都市モデル", "PLATEAU", "審査員"]
+    "tags": [
+      "3D都市モデル",
+      "PLATEAU",
+      "審査員"
+    ],
+    "ogImage": "https://media.connpass.com/thumbs/01/47/01471b9416983a6e01b6acec019d9805.png"
   },
   {
     "id": "evt-2026-agentic-0131",
@@ -67,7 +96,12 @@
     "url": "https://github-dockyard.connpass.com/event/381216/",
     "isUpcoming": false,
     "location": "YouTube Live",
-    "tags": ["GitHub Actions", "AI", "GitHub Dockyard"]
+    "tags": [
+      "GitHub Actions",
+      "AI",
+      "GitHub Dockyard"
+    ],
+    "ogImage": "https://media.connpass.com/thumbs/69/de/69de58e68aa2d9619515b736f0710e57.png"
   },
   {
     "id": "evt-2026-qiita-woman-summit",
@@ -77,7 +111,12 @@
     "url": "https://increments.connpass.com/event/375321/",
     "isUpcoming": false,
     "location": "オンライン",
-    "tags": ["キャリア", "女性エンジニア", "基調講演"]
+    "tags": [
+      "キャリア",
+      "女性エンジニア",
+      "基調講演"
+    ],
+    "ogImage": "https://media.connpass.com/thumbs/cb/af/cbaf8844ab7ada8f8969d79704312e09.png"
   },
   {
     "id": "evt-2025-oss-summit",
@@ -87,6 +126,11 @@
     "url": "https://events.linuxfoundation.org/open-source-summit-japan/",
     "isUpcoming": false,
     "location": "虎ノ門（東京）",
-    "tags": ["オープンソース", "Microsoft", "ブース"]
+    "tags": [
+      "オープンソース",
+      "Microsoft",
+      "ブース"
+    ],
+    "ogImage": "https://events.linuxfoundation.org/wp-content/uploads/2025/12/Social-Snackable.jpg"
   }
 ]
