@@ -1,82 +1,92 @@
 [
   {
-    "id": "evt-2026-build",
-    "date": "2026-06-15",
-    "eventName": "Microsoft Build 2026",
-    "sessionTitle": "Building AI-Powered Apps with GitHub Copilot Extensions",
-    "url": "https://mybuild.microsoft.com",
+    "id": "evt-2026-copilot-meetup",
+    "date": "2026-05-22",
+    "eventName": "GitHub Copilot Meetup Tokyo #2",
+    "sessionTitle": "初心者向けの GitHub Copilot について",
+    "url": "https://aiau.connpass.com/event/392336/",
     "isUpcoming": true,
-    "location": "Seattle, WA / Online",
-    "tags": ["AI", "GitHub Copilot", "Azure"]
+    "location": "現地（目黒）+ オンライン",
+    "tags": ["GitHub Copilot", "AI", "初心者向け"]
   },
   {
-    "id": "evt-2026-de",
-    "date": "2026-05-24",
-    "eventName": "Developer eXperience Day 2026",
-    "sessionTitle": "AI時代の開発者体験を考える〜Copilotと生きる〜",
-    "url": "https://dxd2026.connpass.com",
+    "id": "evt-2026-copilot-webinar",
+    "date": "2026-05-14",
+    "eventName": "GitHub Copilot 初心者向けウェビナー",
+    "sessionTitle": "GitHub 公式ウェビナー",
+    "url": "https://github.registration.goldcast.io/events/bef7b256-2e0b-4dcc-9bcf-d07b49677220",
     "isUpcoming": true,
-    "location": "東京",
-    "tags": ["DX", "AI", "開発者体験"]
+    "location": "オンライン",
+    "tags": ["GitHub Copilot", "AI", "ウェビナー"]
   },
   {
-    "id": "evt-2025-ignite",
-    "date": "2025-11-19",
-    "eventName": "Microsoft Ignite 2025",
-    "sessionTitle": "Building with Azure OpenAI Service: From Prototype to Production",
-    "url": "https://ignite.microsoft.com",
-    "isUpcoming": false,
-    "location": "Chicago, IL / Online",
-    "tags": ["Azure", "AI", "OpenAI"]
-  },
-  {
-    "id": "evt-2025-jxug",
-    "date": "2025-09-14",
-    "eventName": "JXUG × .NET Conf Japan 2025",
-    "sessionTitle": ".NET 10 と AI の最新動向",
-    "url": "https://jxug.connpass.com",
+    "id": "evt-2026-tid-opencampus",
+    "date": "2026-04-26",
+    "eventName": "春のスペシャルオープンキャンパス2026（東京情報デザイン専門職大学）",
+    "sessionTitle": "高校生向け特別講演",
+    "url": "https://www.tid.ac.jp/contents/event/1047/",
     "isUpcoming": false,
     "location": "東京",
-    "tags": [".NET", "AI", "C#"]
+    "tags": ["教育", "高校生向け"]
   },
   {
-    "id": "evt-2025-build",
-    "date": "2025-05-19",
-    "eventName": "Microsoft Build 2025",
-    "sessionTitle": "GitHub Copilot Extensions Deep Dive",
-    "url": "https://mybuild.microsoft.com",
+    "id": "evt-2026-agi-hackathon",
+    "date": "2026-03-23",
+    "eventName": "AGIラボ ハッカソン 2026 Demo Day",
+    "sessionTitle": "審査員",
+    "url": "https://chatgpt-lab.com/n/nace6bdbeccfe",
     "isUpcoming": false,
-    "location": "Seattle, WA / Online",
-    "tags": ["GitHub Copilot", "AI"]
+    "location": "GMO Yours・フクラス（東京）",
+    "tags": ["AI", "ハッカソン", "審査員"]
   },
   {
-    "id": "evt-2024-ignite",
-    "date": "2024-11-19",
-    "eventName": "Microsoft Ignite 2024",
-    "sessionTitle": "Responsible AI Development with Azure AI Content Safety",
-    "url": "https://ignite.microsoft.com",
+    "id": "evt-2026-agentic-0221",
+    "date": "2026-02-21",
+    "eventName": "自然言語でGitHub Actionsを作成できるAgentic Workflowsを検証する会",
+    "sessionTitle": "Agentic Workflowsを検証する",
+    "url": "https://github-dockyard.connpass.com/event/384726/",
     "isUpcoming": false,
-    "location": "Chicago, IL / Online",
-    "tags": ["Azure", "Responsible AI"]
+    "location": "YouTube Live",
+    "tags": ["GitHub Actions", "AI", "GitHub Dockyard"]
   },
   {
-    "id": "evt-2024-techfest",
-    "date": "2024-07-06",
-    "eventName": "Tech Fest 2024",
-    "sessionTitle": "クラウドネイティブ開発の最前線 〜Azure Container Apps 実践〜",
-    "url": "https://techfest2024.example.com",
+    "id": "evt-2026-plateau-award",
+    "date": "2026-02-14",
+    "eventName": "PLATEAU AWARD 2025 最終審査会・表彰式",
+    "sessionTitle": "審査員",
+    "url": "https://asciistartup.connpass.com/event/375305/",
     "isUpcoming": false,
-    "location": "大阪",
-    "tags": ["Cloud", "Azure", "Container"]
+    "location": "大崎（東京）",
+    "tags": ["3D都市モデル", "PLATEAU", "審査員"]
   },
   {
-    "id": "evt-2024-de",
-    "date": "2024-03-23",
-    "eventName": "de:code 2024",
-    "sessionTitle": "Azure AI Studio で始めるエンタープライズAI開発",
-    "url": "https://decode.microsoft.com",
+    "id": "evt-2026-agentic-0131",
+    "date": "2026-01-31",
+    "eventName": "自然言語でGitHub Actionsを作成できるAgentic Workflowsを検証する会",
+    "sessionTitle": "Agentic Workflowsを検証する（女性エンジニア3人）",
+    "url": "https://github-dockyard.connpass.com/event/381216/",
     "isUpcoming": false,
-    "location": "東京 / Online",
-    "tags": ["Azure AI", "Enterprise"]
+    "location": "YouTube Live",
+    "tags": ["GitHub Actions", "AI", "GitHub Dockyard"]
+  },
+  {
+    "id": "evt-2026-qiita-woman-summit",
+    "date": "2026-01-22",
+    "eventName": "Qiita Woman Summit",
+    "sessionTitle": "基調講演「結局私たちは '技術' という共通の推しを持つ仲間なので、一緒に推し活をするべき」",
+    "url": "https://increments.connpass.com/event/375321/",
+    "isUpcoming": false,
+    "location": "オンライン",
+    "tags": ["キャリア", "女性エンジニア", "基調講演"]
+  },
+  {
+    "id": "evt-2025-oss-summit",
+    "date": "2025-12-08",
+    "eventName": "Open Source Summit Japan",
+    "sessionTitle": "マイクロソフトブース担当",
+    "url": "https://events.linuxfoundation.org/open-source-summit-japan/",
+    "isUpcoming": false,
+    "location": "虎ノ門（東京）",
+    "tags": ["オープンソース", "Microsoft", "ブース"]
   }
 ]
